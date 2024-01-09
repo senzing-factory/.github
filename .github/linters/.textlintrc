@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "textlint-rule-terminology": {
+      "severity": "warning"
+    }
+  }
+}
