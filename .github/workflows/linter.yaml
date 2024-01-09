@@ -1,4 +1,4 @@
-name: linter
+name: 'linter'
 
 on:
   push:
@@ -28,4 +28,4 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # only lint new and modified files
-          VALIDATE_ALL_CODEBASE: false
+          #VALIDATE_ALL_CODEBASE: false
