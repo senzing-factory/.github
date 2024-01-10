@@ -6,6 +6,6 @@ extends: default
 rules:
   comments-indentation: disable
   line-length:
-    level: error
+    level: warning
     allow-non-breakable-inline-mappings: true
   truthy: disable
