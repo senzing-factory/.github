@@ -1,4 +1,4 @@
-name: 'lint repo'
+name: lint repo
 
 on:
   push:
@@ -8,4 +8,4 @@ on:
 
 jobs:
   lint-code-base:
-    uses: senzing-factory/build-resources/.github/workflows/linter.yaml@main
+    uses: senzing-factory/build-resources/.github/workflows/linter.yaml@v1
