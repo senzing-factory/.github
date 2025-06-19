@@ -5,16 +5,14 @@
   "language": "en",
   // words - list of words to be always considered correct
   "words": [
-      "CCLA",
-      "CODEOWNER",
-      "gazoink",
-      "gerble",
-      "ICLA",
-      "Senzing",
-      "stackoverflow",
-      "textlint"
-    ],
-  "ignorePaths": [
-    ".git/**"
-  ]
+    "CCLA",
+    "CODEOWNER",
+    "gazoink",
+    "gerble",
+    "ICLA",
+    "Senzing",
+    "stackoverflow",
+    "textlint"
+  ],
+  "ignorePaths": [".git/**"]
 }
