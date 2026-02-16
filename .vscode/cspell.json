@@ -12,7 +12,5 @@
     "stackoverflow",
     "textlint"
   ],
-  "ignorePaths": [
-    ".git/**"
-  ]
+  "ignorePaths": [".git/**"]
 }
